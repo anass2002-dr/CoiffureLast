@@ -144,7 +144,7 @@ namespace Coiffure
         {
             //StreamReader red = new StreamReader("Appsetting.txt");
             //chemin = red.ReadToEnd();
-
+            //
             //cn = new SqlConnection(Mylib.DecryptSym(Convert.FromBase64String(chemin), Mylib.cle, Mylib.iv));
             ////client
             //cn.Open();
